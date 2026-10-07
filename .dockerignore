@@ -1,0 +1,27 @@
+# Node modules (not copied in Docker)
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test coverage
+coverage/
+
+# Build output
+dist/
